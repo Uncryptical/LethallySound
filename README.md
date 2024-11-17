@@ -102,7 +102,7 @@ With that being said, I would <ins>***HIGHLY recommend***</ins> having your grou
 **<details><summary>Hoarding Bug</summary>**
 
 - Re-introducing the classic [YippeeMod](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/) mod, but updated + better clarity!
-- OIIAOIIA
+- OIIAOIIA Cat
 
 </details>
 
