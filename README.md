@@ -1,4 +1,4 @@
-# Lethally Sound
+# [Lethally Sound](https://thunderstore.io/c/lethal-company/p/Uncryptical/LethallySound/)
 ### ***NOTE: This Sound Pack will also include support for some popular mods that are not included in Vanilla!***
 ### ***Any mods that have custom supported Sound Effects will always be Soft-Dependencies, so no need to install any unless you want them!***
 
